@@ -3,10 +3,13 @@ Bootstrap for Evolution
 
 A Bootstrap template build for MODX Evolution.
 
-![screenshot](https://raw.github.com/fourroses666/bootstrap-template/master/screendump00.jpg)
 ![screenshot](https://raw.github.com/fourroses666/bootstrap-template/master/screendump01.jpg)
+![screenshot](https://raw.github.com/fourroses666/bootstrap-template/master/screendump00.jpg)
 ![screenshot](https://raw.github.com/fourroses666/bootstrap-template/master/screendump02.jpg)
+
+Responsive:
 ![screenshot](https://raw.github.com/fourroses666/bootstrap-template/master/screendump03.jpg)
+
 ![screenshot](https://raw.github.com/fourroses666/bootstrap-template/master/screendump04.jpg)
 
 ## Requirements
