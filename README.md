@@ -31,22 +31,21 @@ Sample data used for this preview...
  * Paste the code from template.tpl in the template.
  * I have added examples.tpl. This HTML code you can use to easely build carrousels / fancybox / breadcrumbs etc etc...
  
-### Examples.tpl content:
-
-#1 - BS ALERT 
-#2 - BS BREADCRUMBS 
-#3 - BS BUTTONS 
-#4 - BS CAROUSEL 
-#5 - BS FANCYBOX 
-#6 - BS FANCYBOX 
-#8 - BS 3 ITEMS 
-#9 - BS VIDEO 
-#10 - BS panel 
-#11 - BS PROCESS BAR 
-#12 - BS QUOTE 
-#14 - BS SHARE 
-#15 - BS TIMELINE 1 
-#16 - BS TIMELINE 2 
+## Examples.tpl content:
+1 - BS ALERT 
+2 - BS BREADCRUMBS 
+3 - BS BUTTONS 
+4 - BS CAROUSEL 
+5 - BS FANCYBOX 
+6 - BS FANCYBOX 
+8 - BS 3 ITEMS 
+9 - BS VIDEO 
+10 - BS PANEL
+11 - BS PROCESS BAR 
+12 - BS QUOTE 
+14 - BS SHARE 
+15 - BS TIMELINE 1 
+16 - BS TIMELINE 2 
 
 
  
