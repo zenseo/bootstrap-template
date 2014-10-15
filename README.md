@@ -32,27 +32,27 @@ Sample data used for this preview...
  * I have added examples.tpl. This HTML code you can use to easely build carrousels / fancybox / breadcrumbs etc etc...
  
 ## Examples.tpl content:
-1 - BS ALERT / 2 - BS BREADCRUMBS / 3 - BS BUTTONS / 4 - BS CAROUSEL / 5 - BS FANCYBOX / 8 - BS 3 ITEMS / 9 - BS VIDEO / 10 - BS PANEL / 11 - BS PROCESS BAR / 12 - BS QUOTE / 14 - BS SHARE / 15 - BS TIMELINE 1 / 16 - BS TIMELINE 2
+ALERT, BREADCRUMBS, BUTTONS, CAROUSEL, FANCYBOX, 3 ITEMS, VIDEO, PANEL, PROCESS BAR, QUOTE, SHARE, TIMELINE
 
 ##You need to add chunks for the Wayfinder navigation:
 
 ###NavbarActiveParentRow
-<code><li class="dropdown active"><a class="dropdown-toggle" data-toggle="dropdown" href="#" title="[+wf.title+]">[+wf.linktext+] <b class="caret"></b></a>[+wf.wrapper+]</li></code>
+<pre><li class="dropdown active"><a class="dropdown-toggle" data-toggle="dropdown" href="#" title="[+wf.title+]">[+wf.linktext+] <b class="caret"></b></a>[+wf.wrapper+]</li></pre>
 
 ###NavbarInner
-<code><ul class="dropdown-menu">[+wf.wrapper+]</ul></code>
+<pre><ul class="dropdown-menu">[+wf.wrapper+]</ul></pre>
 
 ###NavbarInnerRow
-<code><li[+wf.classes+]><a href="[+wf.link+]">[+wf.linktext+]</a></li></code>
+<pre><li[+wf.classes+]><a href="[+wf.link+]">[+wf.linktext+]</a></li></pre>
 
 ###NavbarOuter
-<code><ul class="nav navbar-nav">[+wf.wrapper+]</ul></code>
+<pre><ul class="nav navbar-nav">[+wf.wrapper+]</ul></pre>
 
 ###NavbarParentRow
-<code><li class="dropdown"><a class="dropdown-toggle" data-toggle="dropdown" href="#" title="[+wf.title+]">[+wf.linktext+] <b class="caret"></b></a>[+wf.wrapper+]</li></code>
+<pre><li class="dropdown"><a class="dropdown-toggle" data-toggle="dropdown" href="#" title="[+wf.title+]">[+wf.linktext+] <b class="caret"></b></a>[+wf.wrapper+]</li></pre>
 
 ###NavbarRow
-<code><li[+wf.classes+]><a href="[+wf.link+]" title="[+wf.title+]" [+wf.attributes+]>[+wf.linktext+]</a>[+wf.wrapper+]</li></code>
+<pre><li[+wf.classes+]><a href="[+wf.link+]" title="[+wf.title+]" [+wf.attributes+]>[+wf.linktext+]</a>[+wf.wrapper+]</li></pre>
 
 
 Example site: http://tinyurl.com/molpcvj
