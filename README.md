@@ -34,25 +34,25 @@ Sample data used for this preview...
 ## Examples.tpl content:
 ALERT, BREADCRUMBS, BUTTONS, CAROUSEL, FANCYBOX, 3 ITEMS, VIDEO, PANEL, PROCESS BAR, QUOTE, SHARE, TIMELINE
 
-##You need to add chunks for the Wayfinder navigation:
+##You need to add chunks for the Wayfinder navigation: (remove space from < li>, < a, <b.
 
 ###NavbarActiveParentRow
-**<li class="dropdown active"><a class="dropdown-toggle" data-toggle="dropdown" href="#" title="[+wf.title+]">[+wf.linktext+] <b class="caret"></b></a>[+wf.wrapper+]</li>
+< li class="dropdown active">< a class="dropdown-toggle" data-toggle="dropdown" href="#" title="[+wf.title+]">[+wf.linktext+] < b class="caret"></b></a>[+wf.wrapper+]</li>
 
 ###NavbarInner
-**<ul class="dropdown-menu">[+wf.wrapper+]</ul>**
+< ul class="dropdown-menu">[+wf.wrapper+]</ul>
 
 ###NavbarInnerRow
-<addr><li[+wf.classes+]><a href="[+wf.link+]">[+wf.linktext+]</a></li></addr>
+< li[+wf.classes+]>< a href="[+wf.link+]">[+wf.linktext+]</a></li>
 
 ###NavbarOuter
-<pre><ul class="nav navbar-nav">[+wf.wrapper+]</ul></pre>
+< ul class="nav navbar-nav">[+wf.wrapper+]</ul>
 
 ###NavbarParentRow
-<pre><li class="dropdown"><a class="dropdown-toggle" data-toggle="dropdown" href="#" title="[+wf.title+]">[+wf.linktext+] <b class="caret"></b></a>[+wf.wrapper+]</li></pre>
+< li class="dropdown">< a class="dropdown-toggle" data-toggle="dropdown" href="#" title="[+wf.title+]">[+wf.linktext+] < b class="caret"></b></a>[+wf.wrapper+]</li>
 
 ###NavbarRow
-<pre><li[+wf.classes+]><a href="[+wf.link+]" title="[+wf.title+]" [+wf.attributes+]>[+wf.linktext+]</a>[+wf.wrapper+]</li></pre>
+< li[+wf.classes+]>< a href="[+wf.link+]" title="[+wf.title+]" [+wf.attributes+]>[+wf.linktext+]</a>[+wf.wrapper+]</li>
 
 
 Example site: http://tinyurl.com/molpcvj
