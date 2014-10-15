@@ -37,13 +37,13 @@ ALERT, BREADCRUMBS, BUTTONS, CAROUSEL, FANCYBOX, 3 ITEMS, VIDEO, PANEL, PROCESS 
 ##You need to add chunks for the Wayfinder navigation:
 
 ###NavbarActiveParentRow
-<pre><li class="dropdown active"><a class="dropdown-toggle" data-toggle="dropdown" href="#" title="[+wf.title+]">[+wf.linktext+] <b class="caret"></b></a>[+wf.wrapper+]</li></pre>
+**<li class="dropdown active"><a class="dropdown-toggle" data-toggle="dropdown" href="#" title="[+wf.title+]">[+wf.linktext+] <b class="caret"></b></a>[+wf.wrapper+]</li>
 
 ###NavbarInner
-<pre><ul class="dropdown-menu">[+wf.wrapper+]</ul></pre>
+**<ul class="dropdown-menu">[+wf.wrapper+]</ul>**
 
 ###NavbarInnerRow
-<pre><li[+wf.classes+]><a href="[+wf.link+]">[+wf.linktext+]</a></li></pre>
+<addr><li[+wf.classes+]><a href="[+wf.link+]">[+wf.linktext+]</a></li></addr>
 
 ###NavbarOuter
 <pre><ul class="nav navbar-nav">[+wf.wrapper+]</ul></pre>
