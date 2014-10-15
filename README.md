@@ -25,34 +25,34 @@ Sample data used for this preview...
 
 ## Installation
 
- * You can use the Sample data pages on install
+ (You can use the Sample data pages on install)
  * Upload directory "bootstrap" to "/assets/templates/"
  * Make a new template or change the default (MODXHost) template.
  * Paste the code from template.tpl in the template.
  * I have added examples.tpl. This HTML code you can use to easely build carrousels / fancybox / breadcrumbs etc etc...
  
 ## Examples.tpl content:
-1 - BS ALERT / 2 - BS BREADCRUMBS / 3 - BS BUTTONS / 4 - BS CAROUSEL / 5 - BS FANCYBOX / 6 - BS FANCYBOX / 8 - BS 3 ITEMS / 9 - BS VIDEO / 10 - BS PANEL / 11 - BS PROCESS BAR / 12 - BS QUOTE / 14 - BS SHARE / 15 - BS TIMELINE 1 / 16 - BS TIMELINE 2
+1 - BS ALERT / 2 - BS BREADCRUMBS / 3 - BS BUTTONS / 4 - BS CAROUSEL / 5 - BS FANCYBOX / 8 - BS 3 ITEMS / 9 - BS VIDEO / 10 - BS PANEL / 11 - BS PROCESS BAR / 12 - BS QUOTE / 14 - BS SHARE / 15 - BS TIMELINE 1 / 16 - BS TIMELINE 2
 
 ##You need to add chunks for the Wayfinder navigation:
 
 ###NavbarActiveParentRow
-<li class="dropdown active"><a class="dropdown-toggle" data-toggle="dropdown" href="#" title="[+wf.title+]">[+wf.linktext+] <b class="caret"></b></a>[+wf.wrapper+]</li>
+<code><li class="dropdown active"><a class="dropdown-toggle" data-toggle="dropdown" href="#" title="[+wf.title+]">[+wf.linktext+] <b class="caret"></b></a>[+wf.wrapper+]</li></code>
 
 ###NavbarInner
-<ul class="dropdown-menu">[+wf.wrapper+]</ul>
+<code><ul class="dropdown-menu">[+wf.wrapper+]</ul></code>
 
 ###NavbarInnerRow
-<li[+wf.classes+]><a href="[+wf.link+]">[+wf.linktext+]</a></li>
+<code><li[+wf.classes+]><a href="[+wf.link+]">[+wf.linktext+]</a></li></code>
 
 ###NavbarOuter
-<ul class="nav navbar-nav">[+wf.wrapper+]</ul>
+<code><ul class="nav navbar-nav">[+wf.wrapper+]</ul></code>
 
 ###NavbarParentRow
-<li class="dropdown"><a class="dropdown-toggle" data-toggle="dropdown" href="#" title="[+wf.title+]">[+wf.linktext+] <b class="caret"></b></a>[+wf.wrapper+]</li>
+<code><li class="dropdown"><a class="dropdown-toggle" data-toggle="dropdown" href="#" title="[+wf.title+]">[+wf.linktext+] <b class="caret"></b></a>[+wf.wrapper+]</li></code>
 
 ###NavbarRow
-<li[+wf.classes+]><a href="[+wf.link+]" title="[+wf.title+]" [+wf.attributes+]>[+wf.linktext+]</a>[+wf.wrapper+]</li>
+<code><li[+wf.classes+]><a href="[+wf.link+]" title="[+wf.title+]" [+wf.attributes+]>[+wf.linktext+]</a>[+wf.wrapper+]</li></code>
 
 
 Example site: http://tinyurl.com/molpcvj
