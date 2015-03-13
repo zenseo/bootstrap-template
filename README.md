@@ -4,6 +4,12 @@ Bootstrap for Evolution
 A Bootstrap template build for MODX Evolution.
 Sample data used for this preview...
 
+# Mods/Updates
+
+## 1.1 RC
+* Started Packaging for Evo Installer (and Package Manager and Store modules)
+
+
 ![screenshot](https://raw.github.com/fourroses666/bootstrap-template/master/screendump01.jpg)
 
 ##Modal popup for Login and Search:
