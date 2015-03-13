@@ -4,6 +4,7 @@ Bootstrap for Evolution
 A Bootstrap template build for MODX Evolution.
 Sample data used for this preview...
 
+forked from https://github.com/fourroses666/bootstrap-template
 # Mods/Updates
 
 ## 1.1 RC
