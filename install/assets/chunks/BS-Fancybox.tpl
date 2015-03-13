@@ -3,8 +3,8 @@
  *
  * Bootstrap Fancybox example
  *
- * @category	Bootstrap examples
- * @internal @modx_category Start
+ * @category	chunk
+ * @internal @modx_category Bootstrap examples
  */
 <link rel="stylesheet" href="http://frontend.reklamor.com/fancybox/jquery.fancybox.css" media="screen">
 <script src="http://frontend.reklamor.com/fancybox/jquery.fancybox.js"></script>
@@ -77,4 +77,3 @@
         </div>
     </div>
 </div>
-

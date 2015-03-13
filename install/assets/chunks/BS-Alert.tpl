@@ -3,8 +3,8 @@
  *
  * Bootstrap alert example
  *
- * @category	Bootstrap examples 
- * @internal @modx_category Start
+ * @category	chunk
+ * @internal @modx_category Bootstrap examples
  */
  <style>
 	.alert-dismissable .close, .alert-dismissible .close{top:-4px;}
@@ -27,4 +27,3 @@
         <strong>Oh snap!</strong> Change a few things up and try submitting again.
     </div>
 </div>
-

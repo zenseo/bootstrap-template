@@ -3,8 +3,8 @@
  *
  * Bootstrap Breadcrumbs example
  *
- * @category	Bootstrap examples 
- * @internal @modx_category Start
+ * @category	chunk
+ * @internal @modx_category Bootstrap examples
  */
  <style>
 	.btn-breadcrumb .btn:not(:last-child):after {
@@ -128,6 +128,5 @@
 		})
 	});
 </script>
-
 
 

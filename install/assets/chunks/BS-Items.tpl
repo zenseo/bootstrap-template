@@ -3,8 +3,8 @@
  *
  * Bootstrap Items example
  *
- * @category	Bootstrap examples
- * @internal @modx_category Start
+ * @category	chunk
+ * @internal @modx_category Bootstrap examples
  */
 <div class="row">
 

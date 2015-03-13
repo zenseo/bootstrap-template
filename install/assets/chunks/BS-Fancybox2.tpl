@@ -3,8 +3,8 @@
  *
  * Bootstrap Fancybox example 2
  *
- * @category	Bootstrap examples
- * @internal @modx_category Start
+ * @category	chunk
+ * @internal @modx_category Bootstrap examples
  */
 <style>
 	.img-responsive,
@@ -93,6 +93,5 @@
 	</a>
 
 </div>
-
 
 

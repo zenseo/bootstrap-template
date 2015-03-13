@@ -3,8 +3,8 @@
  *
  * Bootstrap Buttons example
  *
- * @category	Bootstrap examples
- * @internal @modx_category Start
+ * @category	chunk
+ * @internal @modx_category Bootstrap examples
  */
  <div class="row">
 	<div class="col-md-12">

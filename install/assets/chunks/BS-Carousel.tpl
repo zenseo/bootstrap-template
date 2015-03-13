@@ -3,8 +3,8 @@
  *
  * Bootstrap Carousel example
  *
- * @category	Bootstrap examples
- * @internal @modx_category Start
+ * @category	chunk
+ * @internal @modx_category Bootstrap examples
  */
 <style>
 	.carousel-control.left,.carousel-control.right{background:none; width:25px;}
@@ -126,4 +126,3 @@
         </a>
     </div>
 </div>
-
