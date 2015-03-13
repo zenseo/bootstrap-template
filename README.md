@@ -7,7 +7,7 @@ Sample data used for this preview...
 # Mods/Updates
 
 ## 1.1 RC
-* Started Packaging for Evo Installer (and Package Manager and Store modules)
+* Started Packaging for Evo Installer (compatible with Package Manager and Store modules)
 
 
 ![screenshot](https://raw.github.com/fourroses666/bootstrap-template/master/screendump01.jpg)
