@@ -7,7 +7,25 @@ Sample data used for this preview...
 # Mods/Updates
 
 ## 1.1 RC
-* Started Packaging for Evo Installer (compatible with Package Manager and Store modules)
+### Started Packaging for Evo Installer (compatible with Package Manager and Store modules)
+* Package installer structure
+* Template installer
+* Wayfinder tpl installers
+  * NavbarActiveParentRow
+  * NavbarInner
+  * NavbarInnerRow
+  * NavbarOuter
+  * NavbarParentRow
+  * NavbarRow
+* Example BS chunks installers
+  * Alert
+  * Breadcrumbs
+  * Buttons
+  * Carousel
+  * Fancybox
+  * Fancybox2
+  * Items
+  * WarmingUp
 
 
 ![screenshot](https://raw.github.com/fourroses666/bootstrap-template/master/screendump01.jpg)
