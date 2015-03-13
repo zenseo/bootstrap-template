@@ -3,7 +3,7 @@
  *
  * Bootstrap template
  *
- * @version   RC 1.4
+ * @version   RC 1.1
  * @author    fourroses666
  * @category	template
  * @internal	@modx_category Bootstrap
